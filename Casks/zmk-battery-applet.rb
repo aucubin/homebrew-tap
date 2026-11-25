@@ -1,6 +1,6 @@
 cask "zmk-battery-applet" do
-  version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.1.1"
+  sha256 "7db16c38cbcf3db1730a1b2e4c340517c5cea4a7842309f618abf914dae25ae1"
 
   url "https://github.com/aucubin/zmk-battery-applet/releases/download/v#{version}/zmk-battery-applet-macos-universal.zip"
   name "ZMK Battery"
